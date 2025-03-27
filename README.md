@@ -91,5 +91,5 @@ Hi there! I'm **Biraj K C**, graduate of Masters of Business Informatics (Data S
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/biraj-k-c-0492b67a/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biraj-k-c-0492b67a/)
 
