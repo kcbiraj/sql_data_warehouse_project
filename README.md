@@ -88,6 +88,19 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Biraj K C**, graduate of Masters of Business Informatics (Data Science). 
 
+
+## 📚 References
+
+This project was inspired by and guided through valuable community learning resources:
+
+- 🎥 [**YouTube: SQL Data Warehouse Project by Baraa**](https://www.youtube.com/watch?v=9GVqKuTVANE)  
+  _An excellent walkthrough on building a complete SQL data warehouse project._
+
+- 📘 [**DataWithBaraa – Substack Course Notes**](https://datawithbaraa.substack.com/p/my-courses)  
+  _Detailed course notes explaining the Medallion architecture, ETL techniques, and dimensional modeling._
+
+---
+
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biraj-k-c-0492b67a/)
